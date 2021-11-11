@@ -1,3 +1,7 @@
+/**
+ * Used to test the Deck file
+ */
+
 public class DeckTest {
     public static void main(String[] args) {
         System.out.println("yeah this works");
